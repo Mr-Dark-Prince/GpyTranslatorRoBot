@@ -6,8 +6,13 @@
 ![logo](https://telegra.ph/file/5da4995ded7c37eb7fe0e.jpg)
 ## Reach me on Telegram [Google Translator 🌏](https://t.me/GpyTranslatorRoBot)
 
-## 💡❓️ Deploy This Bot To Heroku 
-
+## 💡 Deploy This Bot To Heroku ❓️
+```
+1 Fork the Repository
+2 Edit GpyTranslatorRoBot.py and add values api_id, api_hash and your bot token
+3 Create an app Heroku and connect heroku with github 
+4 Manual Deploy 
+```
 # GpytranslatorRoBot
 ##### _Pyrogram translate bot using GpyTranslate Library_
 &nbsp;
