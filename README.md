@@ -10,7 +10,7 @@
 ```
 1 Fork the Repository
 2 Edit GpyTranslatorRoBot.py and add values api_id, api_hash and your bot token
-3 Create an app Heroku and connect heroku with github 
+3 Create an app Heroku and connect heroku with your github repository 
 4 Manual Deploy 
 ```
 # GpytranslatorRoBot
