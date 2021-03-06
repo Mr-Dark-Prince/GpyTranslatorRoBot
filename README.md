@@ -3,6 +3,10 @@
     <a href="https://github.com/mr-dark-prince/GpyTranslatorRoBot"> <img src="https://img.shields.io/github/repo-size/mr-dark-prince/GpyTranslatorRoBot?color=purple&logo=github&logoColor=cyan&style=for-the-badge" /></a>
 </p>
 
+![logo](https://telegra.ph/file/5da4995ded7c37eb7fe0e.jpg)
+# Reach me on Telegram [Google Translator 🌏](https://t.me/GpyTranslatorRoBot)
+
+
 # GpytranslatorRoBot
 ##### _Pyrogram translate bot using GpyTranslate Library_
 &nbsp;
@@ -29,7 +33,7 @@ PIP requirements
 ```
 pip3 install -U -r requirements.txt
 ```
-Edit the API_ID and API_HASH and TOKEN in [main.py](https://github.com/mrcentimetre/gpytranslator-bot/blob/main/main.py)
+Edit the API_ID and API_HASH and TOKEN in [GpyTranslatorRoBot.py](https://github.com/mr-dark-prince/gpytranslatorrobot/blob/prince/GpyTranslatorRoBot.py)
 Example:
 ```
 --API_ID >> 1
