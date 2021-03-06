@@ -4,9 +4,9 @@
 </p>
 
 ![logo](https://telegra.ph/file/5da4995ded7c37eb7fe0e.jpg)
-##Reach me on Telegram [Google Translator 🌏](https://t.me/GpyTranslatorRoBot)
+## Reach me on Telegram [Google Translator 🌏](https://t.me/GpyTranslatorRoBot)
 
-##💡❓️ Deploy This Bot To Heroku 
+## 💡❓️ Deploy This Bot To Heroku 
 
 # GpytranslatorRoBot
 ##### _Pyrogram translate bot using GpyTranslate Library_
