@@ -1,2 +1,2 @@
 # GpyTranslatorRoBot
-🏮Telegram Language Translator bot 🔥 Supports all languages 😹
+🔰Telegram Language Translator bot 🔥 Supports all languages 😹
